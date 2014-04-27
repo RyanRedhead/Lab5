@@ -1,6 +1,8 @@
 Lab 5
 ===========
-
+#Functionality
+1st Program-Checked by Dr. N
+2nd Program-Counts up...
 #1st Program Operation
 ![Alt Text](https://github.com/RyanRedhead/Lab5/blob/master/Prism.PNG?raw=true)
 
@@ -11,7 +13,7 @@ The program begins by loading an 8 into the accumulator; it then adds 1 and disp
 ##100 to 180ns
 ![Alt Text](https://github.com/RyanRedhead/Lab5/blob/master/100to180ns?raw=true)
 
-0 to 40ns was done in the lab handout.
+0 to 40ns was done in the lab handout. (LDAI)
 
 A Fetch occurs at 35ns, decode at 45ns, and execute at 55ns. (ADDI)
 
@@ -32,5 +34,11 @@ Last fetch occurs at 105ns and a decode at 115ns.
 3. IR,ALessZero,AEqZero
 
 4. The controlller will know the where the operand will be added.
+
+#Bugs
+-Prism's auto clock stops working every now and then
+
+#Documentation
+None
 
 5. Add more bits

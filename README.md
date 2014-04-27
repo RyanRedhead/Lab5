@@ -29,11 +29,7 @@ Last fetch occurs at 105ns and a decode at 115ns.
 
 2. The next state is Direct I/O Execute and the active signals are Read, MARLoLd, PCLd, and MEMSEL.
 
-3. IR
-   
-ALessZero
-
-AEqZero
+3. IR,ALessZero,AEqZero
 
 4. The controlller will know the where the operand will be added.
 
